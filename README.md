@@ -1,5 +1,4 @@
 # Police_Logs 
-
 # First data cleaning process started
 # Install all required libiraries
 # Load Data: Reads the Excel file into a pandas DataFrame (logs_df).
@@ -23,6 +22,6 @@
 # Loads traffic stop data from an Excel file using @st.cache_data for vehicle lookups.
 # Allows vehicle number lookup; shows details of matching stops in a human-readable format.
 # Uses Plotly Express import (but not yet implemented in plots).
-# Includes error handling and dynamic UI updates in Streamlit.
+
 
 
